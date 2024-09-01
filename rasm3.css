@@ -1,0 +1,16 @@
+.ss{
+    width: 1200px;
+    height: 50px;
+    display: flex;
+    justify-content: end;
+    transition: all 0.8s;
+}
+.ss:hover{
+    color: red;
+}
+h1{
+    margin-left: 300px;
+}
+.fa-2xl{
+    margin-top: 90px;
+}
